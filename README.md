@@ -369,5 +369,8 @@ After completing the assignment:
 5. Delete the custom subnets.
 6. Delete the custom VPC after all dependent resources are removed.
 
+Screen shots
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/52821600-5e66-4e78-8726-e949c58a89a1" />
 
 ```
